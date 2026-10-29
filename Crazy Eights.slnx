@@ -4,5 +4,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Crazy Eights.vcxproj" />
+  <Project Path="Crazy Eights.vcxproj" Id="49dd5933-0d46-4890-b741-589074023734" />
 </Solution>
